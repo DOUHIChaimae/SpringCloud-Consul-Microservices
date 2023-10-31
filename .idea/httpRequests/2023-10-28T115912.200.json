@@ -1,0 +1,4 @@
+[
+  "config.client.version",
+  "spring.cloud.client.hostname"
+]
