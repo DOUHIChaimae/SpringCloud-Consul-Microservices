@@ -7,8 +7,6 @@ H
 Zcustomer-service/src/main/java/ma/enset/customerservice/repository/CustomerRepository.java,2\8\28775e0b6662721de9ac024a99f88e54ae4c4e18
 x
 Horder-service/src/main/java/ma/enset/orderservice/enums/OrderStatus.java,8\1\819e75c18297fdde4648570eff9ff44dbb45c614
-~
-Ncustomer-service/src/main/java/ma/enset/customerservice/entities/Customer.java,d\f\df08a4ead55d656c77f7855aee4cc09d300bfd24
 u
 Eorder-service/src/main/java/ma/enset/orderservice/models/Product.java,6\9\692a585f679a5dd4e2b9a4ed5431757dd2cc8cfd
 v
@@ -27,12 +25,8 @@ L
 Norder-service/src/main/java/ma/enset/orderservice/OrderServiceApplication.java,9\1\91e858507495473f85dbe2337e26d7492d42128b
 ‰
 Yorder-service/src/main/java/ma/enset/orderservice/repositories/ProductItemRepository.java,2\d\2db1e635fdf09c639e6b116f5b3f9caee21a501d
-{
-Korder-service/src/main/java/ma/enset/orderservice/entities/ProductItem.java,4\4\44f1f266689fb116becb18a8e9836c522b8adf03
 ~
 Norder-service/src/main/java/ma/enset/orderservice/web/OrderRestController.java,6\b\6bc37fb4974f606cc43ea241652f9859f374cb4c
-u
-Eorder-service/src/main/java/ma/enset/orderservice/entities/Order.java,2\1\2193dd0f143395a52fb1d01a7d52e6dca54d27a8
 E
 order-service/pom.xml,d\3\d3bf53ecc442740843266a635cbfe9807b992566
 w

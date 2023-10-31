@@ -25,7 +25,7 @@ public class Order {
     private OrderStatus status;
     private Long customerId;
     @Transient
-    private Customer customer; //customers details
+    private Customer customer;
     @OneToMany(mappedBy = "order")
     private List<ProductItem> productItems;
 
